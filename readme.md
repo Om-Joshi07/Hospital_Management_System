@@ -13,6 +13,7 @@ This is a 1st semester project developed to practice and demonstrate core Python
 3. Encapsulation
 4. File Handling
 5. Modular Code Design
+   
 The program allows CRUD (Create, Read, Update, Delete) operations along with extended functionalities useful for managing a hospital's internal workflow.
 
 
