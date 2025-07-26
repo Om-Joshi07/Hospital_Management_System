@@ -1,11 +1,11 @@
 
 
-🏥 Hospital Management System
+#🏥 Hospital Management System
 
 A Python-based Hospital Management System built using Object-Oriented Programming (OOP) concepts. This console-based project allows hospital staff and admins to perform a variety of operations such as managing doctors and patients, storing data, generating reports, and more.
 
 
-📚 Project Overview
+##📚 Project Overview
 
 This is a 1st semester project developed to practice and demonstrate core Python OOP concepts like:
 1. Classes and Objects
@@ -17,7 +17,7 @@ This is a 1st semester project developed to practice and demonstrate core Python
 The program allows CRUD (Create, Read, Update, Delete) operations along with extended functionalities useful for managing a hospital's internal workflow.
 
 
-✅ Features
+##✅ Features
 
 1. Register/View/Update/Delete Doctor
 2. View/Discharge Patients
@@ -35,7 +35,7 @@ The program allows CRUD (Create, Read, Update, Delete) operations along with ext
 14. Generate Management Report
 
 
-🧠 Concepts Used
+##🧠 Concepts Used
 
 1. Object-Oriented Programming (OOP): Core logic built around classes such as Doctor, Patient, Admin, etc.
 2. File Handling: Save and load patient/doctor data to/from files.
@@ -43,7 +43,7 @@ The program allows CRUD (Create, Read, Update, Delete) operations along with ext
 4. Modular Code Structure: Separated logic into manageable sections for clarity and future scalability.
 
 
-🗂️ File Structure
+##🗂️ File Structure
 
 HospitalManagementSystem/
 ├── hospital_management.py       # Main script (entry point)
@@ -54,7 +54,7 @@ HospitalManagementSystem/
 ├── README.md                    # Project documentation
 
 
-🧑‍💻 Developer
+##🧑‍💻 Developer
 
 Om Joshi
 🗓️ First Semester Python Project
@@ -62,6 +62,6 @@ Om Joshi
 📍 Nepal
 
 
-📄 License
+##📄 License
 
 This project is for educational purposes only. Free to use and modify.
