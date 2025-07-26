@@ -45,14 +45,14 @@ The program allows CRUD (Create, Read, Update, Delete) operations along with ext
 
 ## 🗂️ File Structure
 
-HospitalManagementSystem/
+``` HospitalManagementSystem/
 ├── hospital_management.py       # Main script (entry point)
 ├── doctor.py                    # Doctor class and related functions
 ├── patient.py                   # Patient class and related functions
 ├── admin.py                     # Admin class and update functionality
 ├── data/                        # Folder to store files (patients, doctors, reports)
 ├── README.md                    # Project documentation
-
+```
 
 ## 🧑‍💻 Developer
 
