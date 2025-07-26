@@ -6,17 +6,18 @@ A Python-based Hospital Management System built using Object-Oriented Programmin
 
 
 📚 Project Overview
+
 This is a 1st semester project developed to practice and demonstrate core Python OOP concepts like:
 1. Classes and Objects
 2. Inheritance
 3. Encapsulation
 4. File Handling
 5. Modular Code Design
-
 The program allows CRUD (Create, Read, Update, Delete) operations along with extended functionalities useful for managing a hospital's internal workflow.
 
 
 ✅ Features
+
 1. Register/View/Update/Delete Doctor
 2. View/Discharge Patients
 3. View Discharged Patient
@@ -34,6 +35,7 @@ The program allows CRUD (Create, Read, Update, Delete) operations along with ext
 
 
 🧠 Concepts Used
+
 1. Object-Oriented Programming (OOP): Core logic built around classes such as Doctor, Patient, Admin, etc.
 2. File Handling: Save and load patient/doctor data to/from files.
 3. List & Dictionary Operations: To maintain and manage records efficiently.
@@ -41,6 +43,7 @@ The program allows CRUD (Create, Read, Update, Delete) operations along with ext
 
 
 🗂️ File Structure
+
 HospitalManagementSystem/
 ├── hospital_management.py       # Main script (entry point)
 ├── doctor.py                    # Doctor class and related functions
@@ -51,6 +54,7 @@ HospitalManagementSystem/
 
 
 🧑‍💻 Developer
+
 Om Joshi
 🗓️ First Semester Python Project
 🎓 Sunway College, Kathmandu partnered with Birmingham City University(BCU)
@@ -58,4 +62,5 @@ Om Joshi
 
 
 📄 License
+
 This project is for educational purposes only. Free to use and modify.
