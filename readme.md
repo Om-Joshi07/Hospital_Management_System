@@ -57,6 +57,7 @@ Hospital_Management_System/
 ## 🧑‍💻 Developer
 
 Om Joshi
+
 🗓️ First Semester Python Project
 
 🎓 Sunway College, Kathmandu partnered with Birmingham City University(BCU)
